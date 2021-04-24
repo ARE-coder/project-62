@@ -1,0 +1,44 @@
+.TIMG{
+	height:300px;
+	width:300px;
+	border-radius: 75%;
+	align-items: center;
+}
+#INTRO{
+	Background-color:Cyan;
+	color:darkblue;
+	text-align:center;
+	font-family: cursive;
+	font-size: 18px;
+	font-style: normal;
+}
+li{
+	float:right;
+	top:0px;
+	right:0px;
+	color:black;
+}
+.ninjago{
+	height: 150px;
+	width: 150px;
+	margin-left: 10px;
+	
+}
+.avengers{
+	height:150;
+	width:150;
+	margin-left: 10px;
+}
+#Spiderman{
+	margin-left: 337px;
+	
+}
+#Thor{
+	margin-left: 173px;
+}
+#vision{
+	margin-left: 342px;
+}
+.x men{
+	margin-left: 10px;
+}
